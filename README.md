@@ -1,5 +1,5 @@
-# devBenchConfigs
-# git mergetool using visual studio code
+# Dev Benchwork Config
+## git mergetool using visual studio code
   ```
   git config --global merge.tool vscode
   git config --global mergetool.vscode.cmd "code --wait $MERGED"
